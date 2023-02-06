@@ -7,6 +7,7 @@
 	<manufacturer>UPL</manufacturer>
 	<category>Maze / Penguin</category>
 	<category>Sports / Speed Ball</category>
+	<rotation>horizontal</rotation>
 	<rbf>PenguinKunWars</rbf>
 	<switches default="FB">
 		<dip bits="0,1" name="Coinage" ids="3 Coins/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit,1 Coin/1 Credit"></dip>
